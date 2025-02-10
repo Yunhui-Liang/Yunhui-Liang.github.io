@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "HOME PAGE"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yunhui-Liang"
 description              : &description "personal description"
-url                      : https://ace-trump-tech.github.io/Chenbin_ZHANG.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Yunhui-Liang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ace-trump-tech.github.io/Chenbin_ZHANG.github.io"
 
@@ -22,7 +22,7 @@ repository               : "ace-trump-tech.github.io/Chenbin_ZHANG.github.io"
 author:
   # Biographic information
   avatar           : "picture1.png"
-  name             : "Chenbin ZHANG"
+  name             : "Yunhui-Liang"
   pronouns         : # example: "she/her"  
   bio              : "an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications."
   location         : "Nanjing China"
